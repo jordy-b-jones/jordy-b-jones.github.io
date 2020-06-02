@@ -15,3 +15,12 @@ p {
 .dates-and-times{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+
+.carousel-caption{
+  background: rgba(0,0,0,0.4);
+}
+
+.winkyface{
+  color:lightpink;
+  margin-top: 80px;
+}
